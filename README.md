@@ -18,11 +18,11 @@
 
 ## Main Features
 
-- Code Examples: Replicable samples that you can use directly in your projects.
-- UI Previews: See how your code affects the appearance of your app in real-time.
-- Integrated Documentation: Access to the official Swift programming language documentation in both English and Chinese, available offline.
-- Third-Party Package Discovery: Explore and contribute to the collection of third-party packages in [Explore Data](./data/explore.json).
-- And much more...
+- Provide sample code that can be used directly in your project
+- View in real time how your code affects the appearance of the application
+- Provide the official Swift programming language documentation in both Chinese and English versions for offline use
+- Explore a collection of third-party packages, see [Explore Data](./data/explore.json)
+- And more features...
 
 ## About SwiftUI
 
