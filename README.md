@@ -57,3 +57,8 @@ SwiftUI can be used to develop a wide variety of applications for Apple's multip
 8. **Prototype Design and Testing**: SwiftUI's rapid iteration capabilities and real-time previews make it an ideal choice for quick prototype design. Designers and developers can quickly build and test interface designs, accelerating the development process.
 
 SwiftUI's flexibility and ease of use make it a powerful tool for developing modern, responsive applications. Whether for personal projects or professional development, SwiftUI meets a variety of needs and expectations.
+
+
+<!--idoc:config:
+title: SwiftUI Tutorial is an application designed to assist developers in creating exceptional apps using SwiftUI - 
+-->
