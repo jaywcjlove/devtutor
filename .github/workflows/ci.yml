@@ -18,7 +18,7 @@ jobs:
         run: |
           cat > idoc.yml << EOF
           site: "SwiftUI Tutorial"
-          description: "SwiftUI Tutorial" is an application designed to assist developers in creating exceptional apps using SwiftUI
+          description: SwiftUI Tutorial is an application designed to assist developers in creating exceptional apps using SwiftUI
           keywords: SwiftUI,swift,Tutorial app,Developer,tools,Coding,document
           favicon: assets/logo.png
           logo: ./assets/logo.png
