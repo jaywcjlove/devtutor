@@ -17,6 +17,8 @@
 
 「SwiftUI 教程」是一款旨在帮助开发者使用 SwiftUI 创建出色应用程序的应用。它提供可复制的代码示例和相应的用户界面预览，以简化您的编码过程。此外，还包括了《Swift 编程语言》官方中英文文档的本地离线预览。
 
+![SwiftUI Tutorial screenshots-1](./assets/screenshots-1-cn.png)
+
 ## 主要功能
 
 - 提供可直接在您的项目中使用的样本代码
@@ -24,6 +26,10 @@
 - 提供官方中英文 Swift 编程语言离线文档
 - 探索第三方包集合，详见 [探索数据](https://github.com/jaywcjlove/swiftui-tutorial/blob/main/data/explore.json)
 - 以及更多功能...
+
+![SwiftUI Tutorial screenshots-2](./assets/screenshots-2-cn.png)
+
+![SwiftUI Tutorial screenshots-3](./assets/screenshots-3-cn.png)
 
 ## 关于 SwiftUI
 
