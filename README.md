@@ -20,7 +20,7 @@
 
 - Provide sample code that can be used directly in your project
 - View in real time how your code affects the appearance of the application
-- Provide the official Swift programming language documentation in both Chinese and English versions for offline use
+- Provide official bilingual Chinese and English Swift programming language documentation for offline use
 - Explore a collection of third-party packages, see [Explore Data](./data/explore.json)
 - And more features...
 
