@@ -31,7 +31,7 @@ SwiftUI is an innovative, declarative UI framework developed by Apple for buildi
 
 ## Frequently Asked Questions
 
-## Who is it for?
+### Who is it for?
 
 SwiftUI is suitable for developers of all levels, from beginners to experienced professionals, all of whom can benefit from it. Here are some groups that might find learning and using SwiftUI particularly advantageous:
 
@@ -43,7 +43,7 @@ SwiftUI is suitable for developers of all levels, from beginners to experienced 
 
 In summary, SwiftUI's design philosophy and tool support make it a widely popular framework, valuable to anyone interested in programming, whether they are beginners or experienced professionals looking to enhance development efficiency and quality.
 
-## What can it be used for?
+### What can it be used for?
 
 SwiftUI can be used to develop a wide variety of applications for Apple's multiple platforms, including iOS, macOS, watchOS, and tvOS. Here are some specific types of applications that can be developed using SwiftUI:
 
