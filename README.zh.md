@@ -22,7 +22,7 @@
 - 提供可直接在您的项目中使用的样本代码
 - 实时查看您的代码如何影响应用的外观
 - 提供官方中英文 Swift 编程语言离线文档
-- 探索第三方包集合，详见 [探索数据](./data/explore.json)
+- 探索第三方包集合，详见 [探索数据](https://github.com/jaywcjlove/swiftui-tutorial/blob/main/data/explore.json)
 - 以及更多功能...
 
 ## 关于 SwiftUI
