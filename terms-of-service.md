@@ -6,11 +6,11 @@
 Terms of Service
 ===
 
-Welcome to the "SwiftUI Tutorial" application. We recommend that you read and understand the following terms of service carefully before subscribing or making a purchase.
+Welcome to the "DevTutor" application. We recommend that you read and understand the following terms of service carefully before subscribing or making a purchase.
 
 ### 1. Application Features
 
-The "SwiftUI Tutorial" is an educational tool designed for developers who want to master SwiftUI. This app provides detailed code examples and corresponding interface previews to help you learn and practice programming skills efficiently. In addition, the app integrates the official "Swift Programming Language" documentation, available in both Chinese and English, and can be read offline, ensuring that you can continue to learn even without an internet connection.
+The "DevTutor" is an educational tool designed for developers who want to master SwiftUI. This app provides detailed code examples and corresponding interface previews to help you learn and practice programming skills efficiently. In addition, the app integrates the official "Swift Programming Language" documentation, available in both Chinese and English, and can be read offline, ensuring that you can continue to learn even without an internet connection.
 
 ### 2. Free Version Content
 
@@ -38,4 +38,4 @@ We highly value user feedback and suggestions. If you have any questions or conc
 
 We are committed to protecting your personal information and will not disclose user data to third parties without permission.
 
-Thank you for choosing "SwiftUI Tutorial." We look forward to accompanying you on your learning journey.
+Thank you for choosing "DevTutor" We look forward to accompanying you on your learning journey.

@@ -6,86 +6,26 @@
     },
     "icon": "shippingbox.fill",
     "children": [
-      {
-          "name": "30 Days of Swift",
-          "url": "https://github.com/allenwong/30DaysofSwift",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "About Swift",
-          "url": "https://github.com/NicolaLancellotti-About/About-Swift",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "Awesome Swift Education",
-          "url": "https://github.com/hsavit1/Awesome-Swift-Education",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "Conferences.digital",
-          "url": "https://github.com/zagahr/Conferences.digital",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "Developing iOS Apps with Swift",
-          "url": "https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "Hacking With Swift",
-          "url": "https://www.hackingwithswift.com",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "Ray Wenderlich Tutorials, Videos, Podcasts and books",
-          "url": "https://www.kodeco.com",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "Swift & SwiftUI Tutorials",
-          "url": "https://janeshswift.com",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "Swift Education",
-          "url": "https://github.com/swifteducation",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "swift-tips",
-          "url": "https://github.com/vincent-pradeilles/swift-tips",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "SwiftDoc",
-          "url": "https://swiftdoc.org/",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "SwiftGuide CN",
-          "url": "https://github.com/ipader/SwiftGuide",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "SwiftTips",
-          "url": "https://github.com/JohnSundell/SwiftTips",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "SwiftUI Example",
-          "localizations": {
-            "zh": "SwiftUI 示例"
+      { "name": "30 Days of Swift", "url": "https://github.com/allenwong/30DaysofSwift" },
+      { "name": "About Swift", "url": "https://github.com/NicolaLancellotti-About/About-Swift" },
+      { "name": "Awesome Swift Education", "url": "https://github.com/hsavit1/Awesome-Swift-Education" },
+      { "name": "Conferences.digital", "url": "https://github.com/zagahr/Conferences.digital" },
+      { "name": "Developing iOS Apps with Swift", "url": "https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780" },
+      { "name": "Hacking With Swift", "url": "https://www.hackingwithswift.com" },
+      { "name": "Ray Wenderlich Tutorials, Videos, Podcasts and books", "url": "https://www.kodeco.com" },
+      { "name": "Swift & SwiftUI Tutorials", "url": "https://janeshswift.com" },
+      { "name": "Swift Education", "url": "https://github.com/swifteducation" },
+      { "name": "swift-tips", "url": "https://github.com/vincent-pradeilles/swift-tips" },
+      { "name": "SwiftDoc", "url": "https://swiftdoc.org/" },
+      { "name": "SwiftGuide CN", "url": "https://github.com/ipader/SwiftGuide" },
+      { "name": "SwiftTips", "url": "https://github.com/JohnSundell/SwiftTips" },
+      { "name": "SwiftUI Example", "localizations": { "zh": "SwiftUI 示例"
           },
-          "url": "https://github.com/jaywcjlove/swiftui-example",
-          "icon": "doc.fill"
+          "url": "https://github.com/jaywcjlove/swiftui-example"
       },
-      {
-          "name": "Swift Tutorial",
-          "localizations": {
-            "zh": "Swift 教程"
+      { "name": "Swift Tutorial", "localizations": { "zh": "Swift 教程"
           },
-          "url": "https://github.com/jaywcjlove/swift-tutorial",
-          "icon": "doc.fill"
+          "url": "https://github.com/jaywcjlove/swift-tutorial"
       }
     ]
   },
@@ -96,36 +36,12 @@
     },
     "icon": "shippingbox.fill",
     "children": [
-      {
-        "name": "Appz",
-        "url": "https://github.com/SwiftKitz/Appz",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "SwiftUI Navigation",
-        "url": "https://github.com/pointfreeco/swiftui-navigation",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Crossroad",
-        "url": "https://github.com/giginet/Crossroad",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "LiteRoute",
-        "url": "https://github.com/SpectralDragon/LiteRoute",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Linker",
-        "url": "https://github.com/MaksimKurpa/Linker",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "MonarchRouter",
-        "url": "https://github.com/nikans/MonarchRouter",
-        "icon": "doc.fill"
-      }
+      { "name": "Appz", "url": "https://github.com/SwiftKitz/Appz" },
+      { "name": "SwiftUI Navigation", "url": "https://github.com/pointfreeco/swiftui-navigation" },
+      { "name": "Crossroad", "url": "https://github.com/giginet/Crossroad" },
+      { "name": "LiteRoute", "url": "https://github.com/SpectralDragon/LiteRoute" },
+      { "name": "Linker", "url": "https://github.com/MaksimKurpa/Linker" },
+      { "name": "MonarchRouter", "url": "https://github.com/nikans/MonarchRouter" }
     ]
   },
   {
@@ -135,31 +51,11 @@
     },
     "icon": "shippingbox.fill",
     "children": [
-      {
-        "name": "Apphud",
-        "url": "https://github.com/apphud/ApphudSDK",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "AppReview",
-        "url": "https://github.com/mezhevikin/AppReview",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "InAppPurchase",
-        "url": "https://github.com/jinSasaki/InAppPurchase",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "merchantkit",
-        "url": "https://github.com/benjaminmayo/merchantkit",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "SwiftyStoreKit",
-        "url": "https://github.com/bizz84/SwiftyStoreKit",
-        "icon": "doc.fill"
-      }
+      { "name": "Apphud", "url": "https://github.com/apphud/ApphudSDK" },
+      { "name": "AppReview", "url": "https://github.com/mezhevikin/AppReview" },
+      { "name": "InAppPurchase", "url": "https://github.com/jinSasaki/InAppPurchase" },
+      { "name": "merchantkit", "url": "https://github.com/benjaminmayo/merchantkit" },
+      { "name": "SwiftyStoreKit", "url": "https://github.com/bizz84/SwiftyStoreKit" }
     ]
   },
   {
@@ -169,112 +65,32 @@
     },
     "icon": "shippingbox.fill",
     "children": [
-      {
-        "name": "AudioKit",
-        "url": "https://github.com/audiokit/AudioKit",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "AudioPlayer",
-        "url": "https://github.com/delannoyk/AudioPlayer",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "AudioPlayerSwift",
-        "url": "https://github.com/tbaranes/AudioPlayerSwift",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Beethoven",
-        "url": "https://github.com/vadymmarkov/Beethoven",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "FDSoundActivatedRecorder",
-        "url": "https://github.com/fulldecent/FDSoundActivatedRecorder",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "FDWaveformView",
-        "url": "https://github.com/fulldecent/FDWaveformView",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "ModernAVPlayer",
-        "url": "https://github.com/noreasonprojects/ModernAVPlayer",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "MusicKit",
-        "url": "https://github.com/vprtwn/MusicKit",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Soundable",
-        "url": "https://github.com/ThXou/Soundable",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "SwiftAudioPlayer",
-        "url": "https://github.com/tanhakabir/SwiftAudioPlayer",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "SwiftySound",
-        "url": "https://github.com/adamcichy/SwiftySound",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "voice-overlay-ios",
-        "url": "https://github.com/algolia/voice-overlay-ios",
-        "icon": "doc.fill"
-      }
+      { "name": "AudioKit", "url": "https://github.com/audiokit/AudioKit" },
+      { "name": "AudioPlayer", "url": "https://github.com/delannoyk/AudioPlayer" },
+      { "name": "AudioPlayerSwift", "url": "https://github.com/tbaranes/AudioPlayerSwift" },
+      { "name": "Beethoven", "url": "https://github.com/vadymmarkov/Beethoven" },
+      { "name": "FDSoundActivatedRecorder", "url": "https://github.com/fulldecent/FDSoundActivatedRecorder" },
+      { "name": "FDWaveformView", "url": "https://github.com/fulldecent/FDWaveformView" },
+      { "name": "ModernAVPlayer", "url": "https://github.com/noreasonprojects/ModernAVPlayer" },
+      { "name": "MusicKit", "url": "https://github.com/vprtwn/MusicKit" },
+      { "name": "Soundable", "url": "https://github.com/ThXou/Soundable" },
+      { "name": "SwiftAudioPlayer", "url": "https://github.com/tanhakabir/SwiftAudioPlayer" },
+      { "name": "SwiftySound", "url": "https://github.com/adamcichy/SwiftySound" },
+      { "name": "voice-overlay-ios", "url": "https://github.com/algolia/voice-overlay-ios" }
     ]
   },
   {
     "name": "API",
     "icon": "shippingbox.fill",
     "children": [
-      {
-        "name": "GitHubAPI",
-        "url": "https://github.com/serhii-londar/GithubAPI",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "PXGoogleDirections",
-        "url": "https://github.com/poulpix/PXGoogleDirections",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "RandomUserSwift",
-        "url": "https://github.com/dingwilson/RandomUserSwift",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "reddift",
-        "url": "https://github.com/sonsongithub/reddift",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Swifter Twitter",
-        "url": "https://github.com/mattdonnelly/Swifter",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Swiftkube",
-        "url": "https://github.com/swiftkube/client",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "SwiftlySalesforce",
-        "url": "https://github.com/mike4aday/SwiftlySalesforce",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "SwiftyInsta",
-        "url": "https://github.com/TheM4hd1/SwiftyInsta",
-        "icon": "doc.fill"
-      }
+      { "name": "GitHubAPI", "url": "https://github.com/serhii-londar/GithubAPI" },
+      { "name": "PXGoogleDirections", "url": "https://github.com/poulpix/PXGoogleDirections" },
+      { "name": "RandomUserSwift", "url": "https://github.com/dingwilson/RandomUserSwift" },
+      { "name": "reddift", "url": "https://github.com/sonsongithub/reddift" },
+      { "name": "Swifter Twitter", "url": "https://github.com/mattdonnelly/Swifter" },
+      { "name": "Swiftkube", "url": "https://github.com/swiftkube/client" },
+      { "name": "SwiftlySalesforce", "url": "https://github.com/mike4aday/SwiftlySalesforce" },
+      { "name": "SwiftyInsta", "url": "https://github.com/TheM4hd1/SwiftyInsta" }
     ]
   },
   {
@@ -284,126 +100,30 @@
     },
     "icon": "shippingbox.fill",
     "children": [
-      {
-        "name": "Advance",
-        "url": "https://github.com/timdonnelly/Advance",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "ChainPageCollectionView",
-        "url": "https://github.com/jindulys/ChainPageCollectionView",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "CocoaSprings",
-        "url": "https://github.com/MacPaw/CocoaSprings",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Comets",
-        "url": "https://github.com/cruisediary/Comets",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Ease",
-        "url": "https://github.com/roberthein/Ease",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "EasyAnimation",
-        "url": "https://github.com/icanzilb/EasyAnimation",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Elephant",
-        "url": "https://github.com/s2mr/Elephant",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "FlightAnimator",
-        "url": "https://github.com/AntonTheDev/FlightAnimator",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Gemini",
-        "url": "https://github.com/shoheiyokoyama/Gemini",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "IBAnimatable",
-        "url": "https://github.com/IBAnimatable/IBAnimatable",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Interpolate",
-        "url": "https://github.com/marmelroy/Interpolate",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "lottie-ios",
-        "url": "https://github.com/airbnb/lottie-ios",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Pastel",
-        "url": "https://github.com/cruisediary/Pastel",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Poi",
-        "url": "https://github.com/HideakiTouhara/Poi",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Presentation",
-        "url": "https://github.com/hyperoslo/Presentation",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Pulsator",
-        "url": "https://github.com/shu223/pulsator",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Sica",
-        "url": "https://github.com/cats-oss/Sica",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Spring",
-        "url": "https://github.com/MengTo/Spring",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "SpriteKitEasingSwift",
-        "url": "https://github.com/craiggrummitt/SpriteKitEasingSwift",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "spruce-ios",
-        "url": "https://github.com/willowtreeapps/spruce-ios",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "Stellar",
-        "url": "https://github.com/AugustRush/Stellar",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "TheAnimation",
-        "url": "https://github.com/marty-suzuki/TheAnimation",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "ViewAnimator",
-        "url": "https://github.com/marcosgriselli/ViewAnimator",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "YapAnimator",
-        "url": "https://github.com/yapstudios/YapAnimator",
-        "icon": "doc.fill"
-      }
+      { "name": "Advance", "url": "https://github.com/timdonnelly/Advance" },
+      { "name": "ChainPageCollectionView", "url": "https://github.com/jindulys/ChainPageCollectionView" },
+      { "name": "CocoaSprings", "url": "https://github.com/MacPaw/CocoaSprings" },
+      { "name": "Comets", "url": "https://github.com/cruisediary/Comets" },
+      { "name": "Ease", "url": "https://github.com/roberthein/Ease" },
+      { "name": "EasyAnimation", "url": "https://github.com/icanzilb/EasyAnimation" },
+      { "name": "Elephant", "url": "https://github.com/s2mr/Elephant" },
+      { "name": "FlightAnimator", "url": "https://github.com/AntonTheDev/FlightAnimator" },
+      { "name": "Gemini", "url": "https://github.com/shoheiyokoyama/Gemini" },
+      { "name": "IBAnimatable", "url": "https://github.com/IBAnimatable/IBAnimatable" },
+      { "name": "Interpolate", "url": "https://github.com/marmelroy/Interpolate" },
+      { "name": "lottie-ios", "url": "https://github.com/airbnb/lottie-ios" },
+      { "name": "Pastel", "url": "https://github.com/cruisediary/Pastel" },
+      { "name": "Poi", "url": "https://github.com/HideakiTouhara/Poi" },
+      { "name": "Presentation", "url": "https://github.com/hyperoslo/Presentation" },
+      { "name": "Pulsator", "url": "https://github.com/shu223/pulsator" },
+      { "name": "Sica", "url": "https://github.com/cats-oss/Sica" },
+      { "name": "Spring", "url": "https://github.com/MengTo/Spring" },
+      { "name": "SpriteKitEasingSwift", "url": "https://github.com/craiggrummitt/SpriteKitEasingSwift" },
+      { "name": "spruce-ios", "url": "https://github.com/willowtreeapps/spruce-ios" },
+      { "name": "Stellar", "url": "https://github.com/AugustRush/Stellar" },
+      { "name": "TheAnimation", "url": "https://github.com/marty-suzuki/TheAnimation" },
+      { "name": "ViewAnimator", "url": "https://github.com/marcosgriselli/ViewAnimator" },
+      { "name": "YapAnimator", "url": "https://github.com/yapstudios/YapAnimator" }
     ]
   },
   {
@@ -413,26 +133,10 @@
     },
     "icon": "shippingbox.fill",
     "children": [
-      {
-          "name": "Algorithm",
-          "url": "https://github.com/CosmicMind/Algorithm",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "BTree",
-          "url": "https://github.com/attaswift/BTree",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "swift-algorithm-club",
-          "url": "https://github.com/kodecocodes/swift-algorithm-club",
-          "icon": "doc.fill"
-      },
-      {
-          "name": "SwiftLCS",
-          "url": "https://github.com/Frugghi/SwiftLCS",
-          "icon": "doc.fill"
-      }
+      { "name": "Algorithm", "url": "https://github.com/CosmicMind/Algorithm" },
+      { "name": "BTree", "url": "https://github.com/attaswift/BTree" },
+      { "name": "swift-algorithm-club", "url": "https://github.com/kodecocodes/swift-algorithm-club" },
+      { "name": "SwiftLCS", "url": "https://github.com/Frugghi/SwiftLCS" }
     ]
   },
   {
@@ -442,31 +146,11 @@
     },
     "icon": "shippingbox.fill",
     "children": [
-        {
-            "name": "BlueCap",
-            "url": "https://github.com/troystribling/BlueCap",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "Bluejay",
-            "url": "https://github.com/steamclock/bluejay",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "BluetoothKit",
-            "url": "https://github.com/rhummelmose/BluetoothKit",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "RxBluetoothKit",
-            "url": "https://github.com/polidea/RxBluetoothKit",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "SwiftyBluetooth",
-            "url": "https://github.com/jordanebelanger/SwiftyBluetooth",
-            "icon": "doc.fill"
-        }
+        { "name": "BlueCap", "url": "https://github.com/troystribling/BlueCap" },
+        { "name": "Bluejay", "url": "https://github.com/steamclock/bluejay" },
+        { "name": "BluetoothKit", "url": "https://github.com/rhummelmose/BluetoothKit" },
+        { "name": "RxBluetoothKit", "url": "https://github.com/polidea/RxBluetoothKit" },
+        { "name": "SwiftyBluetooth", "url": "https://github.com/jordanebelanger/SwiftyBluetooth" }
     ]
   },
   {
@@ -476,36 +160,12 @@
     },
     "icon": "shippingbox.fill",
     "children": [
-        {
-            "name": "CameraBackground",
-            "url": "https://github.com/yonat/CameraBackground",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "CameraKit-iOS",
-            "url": "https://github.com/CameraKit/camerakit-ios",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "FDTake",
-            "url": "https://github.com/fulldecent/FDTake",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "Fusuma",
-            "url": "https://github.com/ytakzk/Fusuma",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "MediaPicker",
-            "url": "https://github.com/exyte/mediapicker",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "NextLevel",
-            "url": "https://github.com/NextLevel/NextLevel",
-            "icon": "doc.fill"
-        }
+        { "name": "CameraBackground", "url": "https://github.com/yonat/CameraBackground" },
+        { "name": "CameraKit-iOS", "url": "https://github.com/CameraKit/camerakit-ios" },
+        { "name": "FDTake", "url": "https://github.com/fulldecent/FDTake" },
+        { "name": "Fusuma", "url": "https://github.com/ytakzk/Fusuma" },
+        { "name": "MediaPicker", "url": "https://github.com/exyte/mediapicker" },
+        { "name": "NextLevel", "url": "https://github.com/NextLevel/NextLevel" }
     ]
   },
   {
@@ -515,21 +175,9 @@
     },
     "icon": "shippingbox.fill",
     "children": [
-        {
-            "name": "BarcodeScanner",
-            "url": "https://github.com/hyperoslo/BarcodeScanner",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "EFQRCode",
-            "url": "https://github.com/EFPrefix/EFQRCode",
-            "icon": "doc.fill"
-        },
-        {
-            "name": "QRCodeReader.swift",
-            "url": "https://github.com/yannickl/QRCodeReader.swift",
-            "icon": "doc.fill"
-        }
+        { "name": "BarcodeScanner", "url": "https://github.com/hyperoslo/BarcodeScanner" },
+        { "name": "EFQRCode", "url": "https://github.com/EFPrefix/EFQRCode" },
+        { "name": "QRCodeReader.swift", "url": "https://github.com/yannickl/QRCodeReader.swift" }
     ]
   },
   {
@@ -621,21 +269,9 @@
     },
     "icon": "shippingbox.fill",
     "children": [
-      {
-        "name": "BlueSignals",
-        "url": "https://github.com/Kitura/BlueSignals",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "LaunchAtLogin",
-        "url": "https://github.com/sindresorhus/LaunchAtLogin",
-        "icon": "doc.fill"
-      },
-      {
-        "name": "SystemKit",
-        "url": "https://github.com/beltex/SystemKit/",
-        "icon": "doc.fill"
-      }
+      { "name": "BlueSignals", "url": "https://github.com/Kitura/BlueSignals" },
+      { "name": "LaunchAtLogin", "url": "https://github.com/sindresorhus/LaunchAtLogin" },
+      { "name": "SystemKit", "url": "https://github.com/beltex/SystemKit/" }
     ]
   },
   {

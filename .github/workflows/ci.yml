@@ -17,13 +17,13 @@ jobs:
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "SwiftUI Tutorial"
-          description: SwiftUI Tutorial is an application designed to assist developers in creating exceptional apps using SwiftUI
-          keywords: SwiftUI,swift,Tutorial app,Developer,tools,Coding,document
+          site: "DevTutor for SwiftUI"
+          description: DevTutor is an application designed to assist developers in creating exceptional apps using SwiftUI
+          keywords: SwiftUI,devtutor,swift,Tutorial app,Developer,tools,Coding,document
           favicon: assets/logo.png
           logo: ./assets/logo.png
-          openSource: https://github.com/jaywcjlove/swiftui-tutorial
-          homepage: https://wangchujiang.com/swiftui-tutorial/
+          openSource: https://github.com/jaywcjlove/devtutor
+          homepage: https://wangchujiang.com/devtutor/
           tocs: false
           element: 
             wrapper: style=max-width:720px;

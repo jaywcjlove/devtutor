@@ -6,36 +6,33 @@
 Privacy Policy
 ===
 
-Kenny Wang built the DevHub app as a Free app. This SERVICE is provided by Kenny Wang at no cost and is intended for use as is.
+Welcome to **DevTutor**, developed by Kenny Wang, which provides some free content and subscription services to unlock all features. This privacy policy aims to transparently explain how we handle your personal information, including how we collect, use, and protect it. Please read this policy carefully to understand our commitment to your privacy.
 
-Welcome to our app! We respect and protect your privacy. This privacy policy is designed to explain how we collect, use, and safeguard your personal information. Please read the following carefully to understand our privacy practices.
+### Information Collection and Use
 
-**Information Collection**
+Our app is an offline local app that does not actively collect, store, or transmit any personal identifiable information or sensitive information.
 
-Our app is an offline local application that does not actively collect, store, or transmit any personally identifiable or sensitive information.
+### Data Storage and Security
 
-**Local Data Cache**
+We use industry-standard security measures to protect the information stored on our servers, preventing unauthorized access, disclosure, modification, or destruction. All personal information is encrypted using Secure Sockets Layer (SSL) technology.
 
-We may locally cache some data on your device to enhance the user experience. This data is stored only on your device and is not transmitted to our servers.
+### Third-Party Services
 
-**Usage Permissions**
+Our app may use third-party services (such as payment processing, data analysis, etc.), which may require access to some user information. We only partner with service providers who also prioritize user privacy protection and ensure they comply with this privacy policy.
 
-Our app may request certain device permissions, such as camera, gallery, or location information. These permissions are solely for providing specific app functionalities, and we do not misuse them to collect additional information.
+### User Rights
 
-**Third-Party Services**
+You can access, correct, or delete your personal information at any time. If you want to cancel your subscription or delete your account, please contact our support team.
 
-Our app may utilize third-party services, but these services are limited to providing functionalities required by the app and are not used for collecting personal identification information.
+### Children's Privacy
 
-**Children's Privacy**
+This app is not designed for children under 13. We do not intentionally collect or request personal information from children under 13. If we discover that we have collected such information, we will take immediate action to delete it.
 
-Our app is not intended for children under the age of 13, and we do not intentionally collect information related to children.
+### Privacy Policy Updates
 
-**Privacy Policy Updates**
+Our privacy policy may be adjusted according to business development and legal requirements. Any significant changes will be notified through in-app notifications or your registered email address. We recommend you review this policy regularly to understand the latest privacy information.
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+### Contact Us
 
-This policy is effective as of 2024-03-11
-
-**Contact Us**
-
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at kennyiseeyou@gmail.com.
+If you have any questions or concerns about our privacy policy or need help managing your information, please contact us at kennyiseeyou@gmail.com.
+This policy takes effect on April 21, 2024.

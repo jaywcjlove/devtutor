@@ -1,8 +1,8 @@
 <div align="center">
 	<br />
 	<br />
-	<img src="./assets/logo.png" alt="SwiftUI Tutorial LOGO" width="160" height="160">
-	<h1>SwiftUI Tutorial</h1>
+	<img src="./assets/logo.png" alt="DevTutor for SwiftUI LOGO" width="160" height="160">
+	<h1>DevTutor for SwiftUI</h1>
   <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.zh.md">中文</a> • 
@@ -10,14 +10,14 @@
 		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/swiftui-tutorial/id6471227008" title="SwiftUI Tutorial AppStore"><img alt="SwiftUI Tutorial AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+    <a target="_blank" href="https://apps.apple.com/app/swiftui-tutorial/id6471227008" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
     </a>
   </p>
 </div>
 
-"SwiftUI Tutorial" is an application designed to assist developers in creating exceptional apps using SwiftUI. It offers replicable code samples and corresponding UI previews to streamline your coding process. Additionally, it includes local offline access to the official Swift Programming Language documentation in both Chinese and English.
+"DevTutor for SwiftUI" is an application designed to assist developers in creating exceptional apps using SwiftUI. It offers replicable code samples and corresponding UI previews to streamline your coding process. Additionally, it includes local offline access to the official Swift Programming Language documentation in both Chinese and English.
 
-![SwiftUI Tutorial screenshots-1](./assets/screenshots-1.png)
+![DevTutor for SwiftUI screenshots-1](./assets/screenshots-1.png)
 
 ## Main Features
 
@@ -27,9 +27,9 @@
 - Explore a collection of third-party packages, see [Explore Data](https://github.com/jaywcjlove/swiftui-tutorial/blob/main/data/explore.json)
 - And more features...
 
-![SwiftUI Tutorial screenshots-2](./assets/screenshots-2.png)
+![DevTutor for SwiftUI screenshots-2](./assets/screenshots-2.png)
 
-![SwiftUI Tutorial screenshots-3](./assets/screenshots-3.png)
+![DevTutor for SwiftUI screenshots-3](./assets/screenshots-3.png)
 
 ## About SwiftUI
 
@@ -66,5 +66,5 @@ SwiftUI's flexibility and ease of use make it a powerful tool for developing mod
 
 
 <!--idoc:config:
-title: SwiftUI Tutorial is an application designed to assist developers in creating exceptional apps using SwiftUI - 
+title: DevTutor for SwiftUI is an application designed to assist developers in creating exceptional apps using SwiftUI - 
 -->

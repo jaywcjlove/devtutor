@@ -1,8 +1,8 @@
 <div align="center">
 	<br />
 	<br />
-	<img src="./assets/logo.png" alt="SwiftUI 教程 LOGO" width="160" height="160">
-	<h1>SwiftUI 教程</h1>
+	<img src="./assets/logo.png" alt="DevTutor LOGO" width="160" height="160">
+	<h1>DevTutor for SwiftUI</h1>
   <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.md">English</a> • 
@@ -10,26 +10,26 @@
 		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/swiftui-tutorial/id6476452351" title="SwiftUI 教程 AppStore"><img alt="SwiftUI 教程 AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
+    <a target="_blank" href="https://apps.apple.com/app/devtutor/id6476452351" title="DevTutor AppStore"><img alt="DevTutor AppStore" src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1705968000" height="51">
     </a>
   </p>
 </div>
 
-「SwiftUI 教程」是一款旨在帮助开发者使用 SwiftUI 创建出色应用程序的应用。它提供可复制的代码示例和相应的用户界面预览，以简化您的编码过程。此外，还包括了《Swift 编程语言》官方中英文文档的本地离线预览。
+「DevTutor」是一款旨在帮助开发者使用 SwiftUI 创建出色应用程序的应用。它提供可复制的代码示例和相应的用户界面预览，以简化您的编码过程。此外，还包括了《Swift 编程语言》官方中英文文档的本地离线预览。
 
-![SwiftUI Tutorial screenshots-1](./assets/screenshots-1-cn.png)
+![DevTutor for SwiftUI screenshots-1](./assets/screenshots-1-cn.png)
 
 ## 主要功能
 
 - 提供可直接在您的项目中使用的样本代码
 - 实时查看您的代码如何影响应用的外观
 - 提供官方中英文 Swift 编程语言离线文档
-- 探索第三方包集合，详见 [探索数据](https://github.com/jaywcjlove/swiftui-tutorial/blob/main/data/explore.json)
+- 探索第三方包集合，详见 [探索数据](https://github.com/jaywcjlove/devtutor/blob/main/data/explore.json)
 - 以及更多功能...
 
-![SwiftUI Tutorial screenshots-2](./assets/screenshots-2-cn.png)
+![DevTutor for SwiftUI screenshots-2](./assets/screenshots-2-cn.png)
 
-![SwiftUI Tutorial screenshots-3](./assets/screenshots-3-cn.png)
+![DevTutor for SwiftUI screenshots-3](./assets/screenshots-3-cn.png)
 
 ## 关于 SwiftUI
 
