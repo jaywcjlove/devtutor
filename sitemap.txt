@@ -1,6 +1,6 @@
-https://wangchujiang.com/swiftui-tutorial/README.zh.html
-https://wangchujiang.com/swiftui-tutorial/terms-of-service.html
-https://wangchujiang.com/swiftui-tutorial/terms-of-service.zh.html
-https://wangchujiang.com/swiftui-tutorial/privacy-policy.html
-https://wangchujiang.com/swiftui-tutorial/privacy-policy.zh.html
-https://wangchujiang.com/swiftui-tutorial/index.html
+https://wangchujiang.com/devtutor/README.zh.html
+https://wangchujiang.com/devtutor/terms-of-service.html
+https://wangchujiang.com/devtutor/terms-of-service.zh.html
+https://wangchujiang.com/devtutor/privacy-policy.html
+https://wangchujiang.com/devtutor/privacy-policy.zh.html
+https://wangchujiang.com/devtutor/index.html
