@@ -41,7 +41,7 @@ jobs:
             - <meta property="twitter:card" content="summary_large_image">
             - <meta property="twitter:title" content="<%= site %> - <%= description%>">
             - <meta property="twitter:description" content="<%= description%>">
-            - <meta name="apple-itunes-app" content="app-id=6476452351">
+            - <meta name="apple-itunes-app" content="app-id=6471227008">
           menus:
             Home: index.html
             Apps: 
