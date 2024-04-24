@@ -10,7 +10,6 @@
       { "name": "About Swift", "url": "https://github.com/NicolaLancellotti-About/About-Swift" },
       { "name": "Awesome Swift Education", "url": "https://github.com/hsavit1/Awesome-Swift-Education" },
       { "name": "Conferences.digital", "url": "https://github.com/zagahr/Conferences.digital" },
-      { "name": "Developing iOS Apps with Swift", "url": "https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780" },
       { "name": "Hacking With Swift", "url": "https://www.hackingwithswift.com" },
       { "name": "Ray Wenderlich Tutorials, Videos, Podcasts and books", "url": "https://www.kodeco.com" },
       { "name": "Swift & SwiftUI Tutorials", "url": "https://janeshswift.com" },
@@ -19,14 +18,8 @@
       { "name": "SwiftDoc", "url": "https://swiftdoc.org/" },
       { "name": "SwiftGuide CN", "url": "https://github.com/ipader/SwiftGuide" },
       { "name": "SwiftTips", "url": "https://github.com/JohnSundell/SwiftTips" },
-      { "name": "SwiftUI Example", "localizations": { "zh": "SwiftUI 示例"
-          },
-          "url": "https://github.com/jaywcjlove/swiftui-example"
-      },
-      { "name": "Swift Tutorial", "localizations": { "zh": "Swift 教程"
-          },
-          "url": "https://github.com/jaywcjlove/swift-tutorial"
-      }
+      { "name": "SwiftUI Example", "localizations": { "zh": "SwiftUI 示例" }, "url": "https://github.com/jaywcjlove/swiftui-example" },
+      { "name": "Swift Tutorial", "localizations": { "zh": "Swift 教程" }, "url": "https://github.com/jaywcjlove/swift-tutorial" }
     ]
   },
   {
@@ -154,6 +147,18 @@
     ]
   },
   {
+    "name": "Barcode",
+    "localizations": {
+      "zh": "条形码"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+        { "name": "BarcodeScanner", "url": "https://github.com/hyperoslo/BarcodeScanner" },
+        { "name": "EFQRCode", "url": "https://github.com/EFPrefix/EFQRCode" },
+        { "name": "QRCodeReader.swift", "url": "https://github.com/yannickl/QRCodeReader.swift" }
+    ]
+  },
+  {
     "name": "Camera",
     "localizations": {
       "zh": "相机"
@@ -169,15 +174,19 @@
     ]
   },
   {
-    "name": "Barcode",
+    "name": "Device",
     "localizations": {
-      "zh": "条形码"
+      "zh": "设备"
     },
     "icon": "shippingbox.fill",
     "children": [
-        { "name": "BarcodeScanner", "url": "https://github.com/hyperoslo/BarcodeScanner" },
-        { "name": "EFQRCode", "url": "https://github.com/EFPrefix/EFQRCode" },
-        { "name": "QRCodeReader.swift", "url": "https://github.com/yannickl/QRCodeReader.swift" }
+      { "name": "Device", "url": "https://github.com/Ekhoo/Device" },
+      { "name": "Device.swift", "url": "https://github.com/schickling/Device.swift" },
+      { "name": "DeviceKit", "url": "https://github.com/devicekit/DeviceKit" },
+      { "name": "Deviice", "url": "https://github.com/andrealufino/Deviice" },
+      { "name": "Luminous", "url": "https://github.com/andrealufino/Luminous" },
+      { "name": "Thingy", "url": "https://github.com/bojan/Thingy" },
+      { "name": "UIDeviceComplete", "url": "https://github.com/Nirma/UIDeviceComplete" }
     ]
   },
   {
@@ -214,6 +223,61 @@
       { "name": "TextBuilder", "url": "https://github.com/davdroman/TextBuilder" },
       { "name": "TwitterTextEditor", "url": "https://github.com/twitter/TwitterTextEditor" },
       { "name": "VEditorKit", "url": "https://github.com/GeekTree0101/VEditorKit" }
+    ]
+  },
+  {
+    "name": "Images",
+    "localizations": {
+      "zh": "图片"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+      { "name": "Agrume", "url": "https://github.com/JanGorman/Agrume" },
+      { "name": "AlamofireImage", "url": "https://github.com/Alamofire/AlamofireImage" },
+      { "name": "APNGKit", "url": "https://github.com/onevcat/APNGKit" },
+      { "name": "ATGMediaBrowser", "url": "https://github.com/altayer-digital/ATGMediaBrowser" },
+      { "name": "AXPhotoViewer", "url": "https://github.com/alexhillc/AXPhotoViewer" },
+      { "name": "BlockiesSwift", "url": "https://github.com/Boilertalk/BlockiesSwift" },
+      { "name": "Brightroom", "url": "https://github.com/muukii/Brightroom" },
+      { "name": "CTPanoramaView", "url": "https://github.com/scihant/CTPanoramaView" },
+      { "name": "DTPhotoViewerController", "url": "https://github.com/tungvoduc/DTPhotoViewerController" },
+      { "name": "FacebookImagePicker", "url": "https://github.com/floriangbh/FacebookImagePicker" },
+      { "name": "FaceCrop", "url": "https://github.com/Ancestry/FaceCrop" },
+      { "name": "FlexibleImage", "url": "https://github.com/kawoou/FlexibleImage" },
+      { "name": "FMPhotoPicker", "url": "https://github.com/congnd/FMPhotoPicker" },
+      { "name": "gifu", "url": "https://github.com/kaishin/gifu" },
+      { "name": "GPUImage 2", "url": "https://github.com/BradLarson/GPUImage2" },
+      { "name": "GPUImage 3", "url": "https://github.com/BradLarson/GPUImage3" },
+      { "name": "HanekeSwift", "url": "https://github.com/Haneke/HanekeSwift" },
+      { "name": "Harbeth", "url": "https://github.com/yangKJ/Harbeth" },
+      { "name": "ImageDetect", "url": "https://github.com/Feghal/ImageDetect" },
+      { "name": "ImageLoader", "url": "https://github.com/hirohisa/ImageLoaderSwift" },
+      { "name": "ImageScout", "url": "https://github.com/kaishin/ImageScout" },
+      { "name": "ImageViewer", "url": "https://github.com/Krisiacik/ImageViewer" },
+      { "name": "ImgixSwift", "url": "https://github.com/imgix/imgix-swift" },
+      { "name": "JLStickerTextView", "url": "https://github.com/Textcat/JLStickerTextView" },
+      { "name": "Kanvas", "url": "https://github.com/tumblr/kanvas-ios" },
+      { "name": "Kingfisher", "url": "https://github.com/onevcat/Kingfisher" },
+      { "name": "LetterAvatarKit", "url": "https://github.com/vpeschenkov/LetterAvatarKit" },
+      { "name": "Lightbox", "url": "https://github.com/hyperoslo/Lightbox" },
+      { "name": "MapleBacon", "url": "https://github.com/JanGorman/MapleBacon" },
+      { "name": "MCScratchImageView", "url": "https://github.com/Minecodecraft/MCScratchImageView" },
+      { "name": "Moa", "url": "https://github.com/evgenyneu/moa" },
+      { "name": "Nuke", "url": "https://github.com/kean/Nuke" },
+      { "name": "PassportScanner", "url": "https://github.com/evermeer/PassportScanner" },
+      { "name": "Rough", "url": "https://github.com/bakhtiyork/Rough" },
+      { "name": "Sharaku", "url": "https://github.com/makomori/Sharaku" },
+      { "name": "Snowflake", "url": "https://github.com/onmyway133/Snowflake" },
+      { "name": "SwiftDraw", "url": "https://github.com/swhitty/SwiftDraw" },
+      { "name": "SwiftGen-Assets", "url": "https://github.com/SwiftGen/SwiftGen#assets-catalogs" },
+      { "name": "SwiftSVG", "url": "https://github.com/mchoe/SwiftSVG" },
+      { "name": "SwiftWebImage", "url": "https://github.com/geekaurora/SwiftWebImage" },
+      { "name": "SwiftyGif", "url": "https://github.com/kirualex/SwiftyGif" },
+      { "name": "TinyCrayon", "url": "https://github.com/TinyCrayon/TinyCrayon-iOS-SDK" },
+      { "name": "Toucan", "url": "https://github.com/gavinbunney/Toucan" },
+      { "name": "UIImageColors", "url": "https://github.com/jathu/UIImageColors" },
+      { "name": "YPImagePicker", "url": "https://github.com/Yummypets/YPImagePicker" },
+      { "name": "ZImageCropper", "url": "https://github.com/ZaidPathan/ZImageCropper" }
     ]
   },
   {
@@ -260,6 +324,41 @@
       { "name": "JTAppleCalendar", "url": "https://github.com/patchthecode/JTAppleCalendar" },
       { "name": "KVKCalendar", "url": "https://github.com/kvyatkovskys/KVKCalendar" },
       { "name": "Workaholic", "url": "https://github.com/hemangshah/Workaholic" }
+    ]
+  },
+  {
+    "name": "Events",
+    "localizations": {
+      "zh": "事件"
+    },
+    "icon": "shippingbox.fill",
+    "children": [
+
+      { "name": "Bond", "url": "https://github.com/DeclarativeHub/Bond" },
+      { "name": "Combinative", "url": "https://github.com/noppefoxwolf/Combinative" },
+      { "name": "EmitterKit", "url": "https://github.com/aleclarson/emitter-kit" },
+      { "name": "FutureKit", "url": "https://github.com/FutureKit/FutureKit" },
+      { "name": "Katana", "url": "https://github.com/BendingSpoons/katana-swift" },
+      { "name": "LightweightObservable", "url": "https://github.com/fxm90/LightweightObservable" },
+      { "name": "NoticeObserveKit", "url": "https://github.com/marty-suzuki/NoticeObserveKit" },
+      { "name": "Notificationz", "url": "https://github.com/SwiftKitz/Notificationz" },
+      { "name": "Observable", "url": "https://github.com/roberthein/Observable" },
+      { "name": "OneWay", "url": "https://github.com/DevYeom/OneWay" },
+      { "name": "OpenCombine", "url": "https://github.com/OpenCombine/OpenCombine" },
+      { "name": "PMKVObserver", "url": "https://github.com/postmates/PMKVObserver/" },
+      { "name": "PromiseKit", "url": "https://github.com/mxcl/PromiseKit" },
+      { "name": "ReactiveCocoa", "url": "https://github.com/ReactiveCocoa/ReactiveCocoa" },
+      { "name": "ReactorKit", "url": "https://github.com/ReactorKit/ReactorKit" },
+      { "name": "ReSwift", "url": "https://github.com/ReSwift/ReSwift" },
+      { "name": "RxSwift", "url": "https://github.com/ReactiveX/RxSwift" },
+      { "name": "Signals", "url": "https://github.com/artman/Signals" },
+      { "name": "SwiftEventBus", "url": "https://github.com/cesarferreira/SwiftEventBus" },
+      { "name": "Tempura", "url": "https://github.com/BendingSpoons/tempura-swift" },
+      { "name": "Tokamak", "url": "https://github.com/TokamakUI/Tokamak" },
+      { "name": "Tomorrowland", "url": "https://github.com/lilyball/Tomorrowland" },
+      { "name": "TopicEventBus", "url": "https://github.com/mcmatan/topicEventBus" },
+      { "name": "VueFlux", "url": "https://github.com/ra1028/VueFlux" },
+      { "name": "When", "url": "https://github.com/vadymmarkov/When" }
     ]
   },
   {
@@ -378,41 +477,6 @@
       { "name": "WSTagsField", "url": "https://github.com/whitesmith/WSTagsField" },
       { "name": "YMTreeMap", "url": "https://github.com/yahoo/YMTreeMap" },
       { "name": "YNSearch", "url": "https://github.com/younatics/YNSearch" }
-    ]
-  },
-  {
-    "name": "Events",
-    "localizations": {
-      "zh": "事件"
-    },
-    "icon": "shippingbox.fill",
-    "children": [
-
-      { "name": "Bond", "url": "https://github.com/DeclarativeHub/Bond" },
-      { "name": "Combinative", "url": "https://github.com/noppefoxwolf/Combinative" },
-      { "name": "EmitterKit", "url": "https://github.com/aleclarson/emitter-kit" },
-      { "name": "FutureKit", "url": "https://github.com/FutureKit/FutureKit" },
-      { "name": "Katana", "url": "https://github.com/BendingSpoons/katana-swift" },
-      { "name": "LightweightObservable", "url": "https://github.com/fxm90/LightweightObservable" },
-      { "name": "NoticeObserveKit", "url": "https://github.com/marty-suzuki/NoticeObserveKit" },
-      { "name": "Notificationz", "url": "https://github.com/SwiftKitz/Notificationz" },
-      { "name": "Observable", "url": "https://github.com/roberthein/Observable" },
-      { "name": "OneWay", "url": "https://github.com/DevYeom/OneWay" },
-      { "name": "OpenCombine", "url": "https://github.com/OpenCombine/OpenCombine" },
-      { "name": "PMKVObserver", "url": "https://github.com/postmates/PMKVObserver/" },
-      { "name": "PromiseKit", "url": "https://github.com/mxcl/PromiseKit" },
-      { "name": "ReactiveCocoa", "url": "https://github.com/ReactiveCocoa/ReactiveCocoa" },
-      { "name": "ReactorKit", "url": "https://github.com/ReactorKit/ReactorKit" },
-      { "name": "ReSwift", "url": "https://github.com/ReSwift/ReSwift" },
-      { "name": "RxSwift", "url": "https://github.com/ReactiveX/RxSwift" },
-      { "name": "Signals", "url": "https://github.com/artman/Signals" },
-      { "name": "SwiftEventBus", "url": "https://github.com/cesarferreira/SwiftEventBus" },
-      { "name": "Tempura", "url": "https://github.com/BendingSpoons/tempura-swift" },
-      { "name": "Tokamak", "url": "https://github.com/TokamakUI/Tokamak" },
-      { "name": "Tomorrowland", "url": "https://github.com/lilyball/Tomorrowland" },
-      { "name": "TopicEventBus", "url": "https://github.com/mcmatan/topicEventBus" },
-      { "name": "VueFlux", "url": "https://github.com/ra1028/VueFlux" },
-      { "name": "When", "url": "https://github.com/vadymmarkov/When" }
     ]
   },
   {
