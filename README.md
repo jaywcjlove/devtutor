@@ -19,7 +19,7 @@
 
 "DevTutor for SwiftUI" is an application designed to assist developers in creating exceptional apps using SwiftUI. It offers replicable code samples and corresponding UI previews to streamline your coding process. Additionally, it includes local offline access to the official Swift Programming Language documentation in both Chinese and English.
 
-![DevTutor for SwiftUI screenshots-1](./assets/screenshots-1.png)
+![DevTutor for SwiftUI screenshots-1](./assets/screenshots-1-all.png)
 
 ## Main Features
 
@@ -28,6 +28,8 @@
 - Provide official bilingual Chinese and English Swift programming language documentation for offline use
 - Explore a collection of third-party packages, see [Explore Data](https://github.com/jaywcjlove/swiftui-tutorial/blob/main/data/explore.json)
 - And more features...
+
+![DevTutor for SwiftUI screenshots-1](./assets/screenshots-1.png)
 
 ![DevTutor for SwiftUI screenshots-2](./assets/screenshots-2.png)
 
