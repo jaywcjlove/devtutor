@@ -2,7 +2,7 @@
 	<br />
 	<br />
 	<img src="./assets/logo.png" alt="DevTutor LOGO" width="160" height="160">
-	<h1>DevTutor for SwiftUI</h1>
+	<h1>DevTutor - SwiftUI 开发辅导</h1>
   <!--rehype:style=border: 0;-->
   <p>
 		<a href="./README.md">English</a> • 
@@ -67,3 +67,10 @@ SwiftUI 可以用于开发各种类型的应用程序，适用于 Apple 的多�
 8. **原型设计和测试**：SwiftUI 的快速迭代能力和实时预览特性使其成为快速原型设计的理想选择。设计师和开发者可以迅速构建和测试界面设计，加速开发过程。
 
 SwiftUI 提供的灵活性和易用性使其成为开发现代、响应快速的应用程序的强大工具。无论是个人项目还是专业开发，SwiftUI 都能满足不同的需求和预期。
+
+
+<!--idoc:config:
+site: DevTutor - SwiftUI 开发辅导
+title: DevTutor - 一款旨在帮助开发者使用 SwiftUI 创建出色应用程序的应用 - 
+keywords: SwiftUI, 教程, Apple, 全平台开发, 基础知识, 实例, 速查表, 组件使用, 学习, 简单, 动手, 开发应用
+-->
