@@ -1,0 +1,166 @@
+{
+  "identifier" : "8F58A673",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_locale" : "en_US",
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Load Products"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Purchase"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Verification"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Store Sync"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Subscription Status"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "App Transaction"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Manage Subscriptions Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Refund Request Sheet"
+      },
+      {
+        "current" : null,
+        "enabled" : false,
+        "name" : "Offer Code Redeem Sheet"
+      }
+    ]
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "2F793903",
+      "localizations" : [
+
+      ],
+      "name" : "VIP Pro Example",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "FF45B2EF",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "All Access Monthly",
+              "displayName" : "Pro Monthly",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "每月全部访问",
+              "displayName" : "专业月会员",
+              "locale" : "zh_CN"
+            }
+          ],
+          "productID" : "com.wangchujiang.InAppPurchaseManager.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro Monthly",
+          "subscriptionGroupID" : "2F793903",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "12.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "908E4B0F",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "All Access Annually",
+              "displayName" : "Pro Yearly",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "每年全部访问",
+              "displayName" : "专业年会员",
+              "locale" : "zh_CN"
+            }
+          ],
+          "productID" : "com.wangchujiang.InAppPurchaseManager.yearly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro Yearly",
+          "subscriptionGroupID" : "2F793903",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "66.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "26539A2F",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "All Access Lifetime",
+              "displayName" : "Pro Lifetime",
+              "locale" : "en_US"
+            },
+            {
+              "description" : "全部终生访问",
+              "displayName" : "专业终生版",
+              "locale" : "zh_CN"
+            }
+          ],
+          "productID" : "com.wangchujiang.InAppPurchaseManager.lifetime",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pro Lifetime",
+          "subscriptionGroupID" : "2F793903",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
