@@ -17,6 +17,12 @@
   </p>
 </div>
 
+<div align="center">
+
+minimum OS requirement: `macOS 14.0`
+
+</div>
+
 "DevTutor for SwiftUI" is an application designed to assist developers in creating exceptional apps using SwiftUI. It offers replicable code samples and corresponding UI previews to streamline your coding process. Additionally, it includes local offline access to the official Swift Programming Language documentation in both Chinese and English.
 
 ![DevTutor for SwiftUI screenshots-1](./assets/screenshots-1-all.png)

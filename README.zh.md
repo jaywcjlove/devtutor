@@ -17,6 +17,12 @@
   </p>
 </div>
 
+<div align="center">
+
+最低操作系统要求：`macOS 14.0`
+
+</div>
+
 「DevTutor」是一款旨在帮助开发者使用 SwiftUI 创建出色应用程序的应用。它提供可复制的代码示例和相应的用户界面预览，以简化您的编码过程。此外，还包括了《Swift 编程语言》官方中英文文档的本地离线预览。
 
 ![DevTutor for SwiftUI screenshots-1](./assets/screenshots-1-all.png)
