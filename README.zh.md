@@ -19,7 +19,7 @@
 
 <div align="center">
 
-最低操作系统要求：`macOS 14.0`
+最低操作系统要求：`macOS 14.0` / `iOS 17.0`
 
 </div>
 

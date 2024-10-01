@@ -19,7 +19,7 @@
 
 <div align="center">
 
-minimum OS requirement: `macOS 14.0`
+minimum OS requirement: `macOS 14.0` / `iOS 17.0`
 
 </div>
 
