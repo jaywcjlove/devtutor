@@ -134,7 +134,7 @@ extension SubscriptionsManager {
         
         if let expirationDate = transaction.expirationDate, product.type == .autoRenewable {
             // 更新 EntitlementManager 的 hasPro 属性
-            hasPro = !isExpirationDate(expirationDate: expirationDate)
+            hasPro = isExpirationDate(expirationDate: expirationDate)
         }
     }
 
