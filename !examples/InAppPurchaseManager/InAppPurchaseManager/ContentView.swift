@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    @EnvironmentObject private var entitlement: EntitlementManager
+    @EnvironmentObject private var entitlement: SubscriptionsManager
     @State var showingSubscriptionView = false
     var body: some View {
         VStack {
@@ -19,6 +19,15 @@ struct ContentView: View {
             } else {
                 Text("You have subscribed to purchase")
             }
+            
+#if DEBUG
+            let label = "清除 hasPro=\(entitlement.hasPro)"
+            if entitlement.hasPro == true {
+                Button(label) {
+                    entitlement.hasPro = false
+                }
+            }
+#endif
         }
         .padding()
         .sheet(isPresented: $showingSubscriptionView) {

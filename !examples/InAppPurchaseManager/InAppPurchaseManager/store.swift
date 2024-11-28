@@ -8,14 +8,6 @@
 import SwiftUI
 import StoreKit
 
-/// 管理用户的权限状态
-class EntitlementManager: ObservableObject {
-    /// UserDefaults 实例，用于存储权限状态
-    static let userDefaults = UserDefaults(suiteName: "com.wangchujiang.InAppPurchaseManager.vip")!
-    /// 使用 @AppStorage 将 hasPro 属性保存到 UserDefaults 中
-    @AppStorage("hasPro", store: userDefaults) var hasPro: Bool = false
-}
-
 /// 管理订阅产品和购买记录
 @MainActor class SubscriptionsManager: NSObject, ObservableObject {
     /// 订阅产品的标识符数组
@@ -26,15 +18,16 @@ class EntitlementManager: ObservableObject {
     ]
     /// 记录已购买的产品标识符集合
     var purchasedProductIDs: Set<String> = []
+    /// UserDefaults 实例，用于存储权限状态
+    static let userDefaults = UserDefaults(suiteName: "com.wangchujiang.InAppPurchaseManager.vip")!
+    /// 使用 @AppStorage 将 hasPro 属性保存到 UserDefaults 中
+    @AppStorage("hasPro", store: userDefaults) var hasPro: Bool = false
     /// 发布订阅产品信息
     @Published var products: [Product] = []
-    /// 授权管理器
-    private var entitlementManager: EntitlementManager? = nil
     /// 更新任务
     private var updates: Task<Void, Never>? = nil
     /// 初始化方法，接收 EntitlementManager 实例作为参数
-    init(entitlementManager: EntitlementManager) {
-        self.entitlementManager = entitlementManager
+    override init() {
         super.init()
         // 监听交易更新
         self.updates = observeTransactionUpdates()
@@ -115,21 +108,40 @@ extension SubscriptionsManager {
     func updatePurchasedProducts() async {
         /// 一系列最新交易，使用户有权进行应用内购买和订阅。
         for await result in Transaction.currentEntitlements {
-            guard case .verified(let transaction) = result else {
-                continue
-            }
-            if transaction.revocationDate == nil {
-                // 如果交易未被撤销，则将产品标识符添加到已购买集合中
-                if !self.purchasedProductIDs.contains(transaction.productID) {
-                    self.purchasedProductIDs.insert(transaction.productID)
-                }
-            } else {
-                // 如果交易被撤销，则从已购买集合中移除产品标识符
-                self.purchasedProductIDs.remove(transaction.productID)
-            }
+            guard case .verified(let transaction) = result else { continue }
+            handleTransaction(transaction)
         }
-        // 更新 EntitlementManager 的 hasPro 属性
-        self.entitlementManager?.hasPro = !self.purchasedProductIDs.isEmpty
+    }
+    // MARK: - 处理交易
+    /// 处理交易
+    private func handleTransaction(_ transaction: StoreKit.Transaction) {
+        if transaction.revocationDate == nil {
+            // 如果交易未被撤销，则将产品标识符添加到已购买集合中
+            if !self.purchasedProductIDs.contains(transaction.productID) {
+                self.purchasedProductIDs.insert(transaction.productID)
+            }
+        } else {
+            // 如果交易被撤销，则从已购买集合中移除产品标识符
+            self.purchasedProductIDs.remove(transaction.productID)
+        }
+        
+        // 通过 productID 获取 Product 对象
+        guard let product = products.first(where: { $0.id == transaction.productID }) else {
+            // 处理 product 不存在的情况
+            print("Product with ID \(transaction.productID) not found.")
+            return
+        }
+        
+        if let expirationDate = transaction.expirationDate, product.type == .autoRenewable {
+            // 更新 EntitlementManager 的 hasPro 属性
+            hasPro = !isExpirationDate(expirationDate: expirationDate)
+        }
+    }
+
+    // MARK: - 判断订阅是否过期
+    /// 判断订阅是否过期
+    func isExpirationDate(expirationDate: Date) -> Bool {
+        return expirationDate > Date() // 如果 expirationDate 在 currentDate 之后，返回 true 表示未过期
     }
     // MARK: - 恢复购买
     /// 异步恢复购买
@@ -140,13 +152,13 @@ extension SubscriptionsManager {
             // 更新已购买的产品
             await updatePurchasedProducts()
         } catch {
-            print(error)
+            print("Restore purchases failed: \(error.localizedDescription)")
         }
     }
 }
 
 // MARK: - SKPaymentTransactionObserver 实现
-extension SubscriptionsManager: SKPaymentTransactionObserver {
+extension SubscriptionsManager: @preconcurrency SKPaymentTransactionObserver {
     // 支付队列更新交易
     func paymentQueue(_ queue: SKPaymentQueue, updatedTransactions transactions: [SKPaymentTransaction]) {
         print("Subscriptions Payment Queue! updated!")
