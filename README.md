@@ -7,7 +7,8 @@
   <p>
 		<a href="./README.zh.md">中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
-		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a>
+		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
+    <a href="https://github.com/jaywcjlove/devtutor/releases">Changelog</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
