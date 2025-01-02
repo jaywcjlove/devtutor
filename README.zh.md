@@ -75,7 +75,7 @@ SwiftUI 可以用于开发各种类型的应用程序，适用于 Apple 的多�
 
 SwiftUI 提供的灵活性和易用性使其成为开发现代、响应快速的应用程序的强大工具。无论是个人项目还是专业开发，SwiftUI 都能满足不同的需求和预期。
 
-
+<!--released v1.21.0-->
 <!--idoc:config:
 site: DevTutor - SwiftUI 开发辅导
 title: DevTutor - 一款旨在帮助开发者使用 SwiftUI 创建出色应用程序的应用 - 
