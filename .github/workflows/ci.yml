@@ -13,11 +13,34 @@ jobs:
         with:
           node-version: 20
           registry-url: 'https://registry.npmjs.org'
+          
+      - name: Create Tag
+        id: create_tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          test: '[R|r]elease[d]\s+[v|V]\d(\.\d+){0,2}'
 
+      - name: Create Released Tag
+        uses: jaywcjlove/create-tag-action@main
+        with:
+          version: ${{ steps.create_tag.outputs.version }}
+          release: true
+          body: |
+            <p>
+              <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+              </a>
+              <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
+              </a>
+            </p>
+
+      - name: Get latest tag
+        id: get_latest_tag
+        run: echo "LATEST_TAG=$(git describe --tags $(git rev-list --tags --max-count=1))" >> $GITHUB_ENV
+        
       - name: Create idoc config.
         run: |
           cat > idoc.yml << EOF
-          site: "DevTutor for SwiftUI"
+          site: "DevTutor for SwiftUI {{version:${{ steps.create_tag.outputs.version }}}}"
           description: DevTutor is an application designed to assist developers in creating exceptional apps using SwiftUI
           keywords: SwiftUI,devtutor,swift,Tutorial app,Developer,tools,Coding,document
           favicon: assets/logo.png
