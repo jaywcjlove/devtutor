@@ -8,7 +8,7 @@
 		<a href="./README.md">English</a> • 
 		<a href="#常见问题解答">常见问题</a> • 
 		<a target="_blank" href="https://wangchujiang.com/#/contact">联系&支持</a> • 
-    <a href="https://github.com/jaywcjlove/devtutor/releases">变更日志</a>
+    <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
     <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008" title="DevTutor AppStore"><img alt="DevTutor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
