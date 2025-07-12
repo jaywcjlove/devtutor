@@ -1,6 +1,10 @@
+https://wangchujiang.com/devtutor/index.html
 https://wangchujiang.com/devtutor/index.zh.html
+https://wangchujiang.com/devtutor/CHANGELOG.html
+https://wangchujiang.com/devtutor/CHANGELOG.zh.html
+https://wangchujiang.com/devtutor/feedback.html
+https://wangchujiang.com/devtutor/feedback.zh.html
 https://wangchujiang.com/devtutor/terms-of-service.html
 https://wangchujiang.com/devtutor/terms-of-service.zh.html
 https://wangchujiang.com/devtutor/privacy-policy.html
 https://wangchujiang.com/devtutor/privacy-policy.zh.html
-https://wangchujiang.com/devtutor/index.html
