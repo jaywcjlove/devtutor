@@ -7,7 +7,7 @@
   <p>
 		<a href="./README.zh.md">中文</a> • 
 		<a href="#frequently-asked-questions">FAQ</a> • 
-		<a target="_blank" href="https://wangchujiang.com/#/contact">Contact & Support</a> • 
+    <a target="_blank" href="https://github.com/jaywcjlove/devtutor/issues/new?template=bug_report.yml">Contact & Support</a> • 
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
