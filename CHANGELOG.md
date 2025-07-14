@@ -6,6 +6,12 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [1.23.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.23.0)
+
+1. fix: fix appearance settings not applying correctly
+2. style: adjust sidebar width style
+3. feat: add always-on-top window feature
+
 ## [1.22.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.22.0)
 
 1. feat: Add `StoreKitHelper` documentation.

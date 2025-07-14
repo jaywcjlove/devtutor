@@ -6,6 +6,12 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [1.23.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.23.0)
+
+1. fix: 修复外观设置未生效的问题
+2. style: 修改侧边栏宽度样式
+3. feat: 新增置顶窗口功能
+
 ## [1.22.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.22.0)
 
 1. feat: 添加 `StoreKitHelper` 文档。
