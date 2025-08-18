@@ -6,20 +6,28 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
-## [1.23.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.23.0)
+## [v1.24.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.24.0)
+
+1. feat: 添加状态管理文档。
+2. feat: 添加菜单可见性设置。
+3. fix: 修复 iPad 设置选项不隐藏的问题。
+4. fix: 避免在视图更新时发布更改。
+5. ui: 添加关于页面。
+
+## [v1.23.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.23.0)
 
 1. fix: 修复外观设置未生效的问题
 2. style: 修改侧边栏宽度样式
 3. feat: 新增置顶窗口功能
 
-## [1.22.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.22.0)
+## [v1.22.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.22.0)
 
 1. feat: 添加 `StoreKitHelper` 文档。
 2. chore: 更新主菜单。
 3. fix: 修复错误的收据存在性检查。
 4. feat: 添加更新检查功能。
 
-## [1.21.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.21.0)
+## [v1.21.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.21.0)
 
 1. 更新 `hsplitview` 文档。
 2. 更新 `store-app-store-complete-example` 文档。
@@ -29,7 +37,7 @@ Changelog
 6. 更新 `cheatsheets text` 文档。
 7. 更新 `cheatsheets print` 文档。
 
-## [1.20.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.20.0)
+## [v1.20.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.20.0)
 
 1. 文档：更新 store-share-purchases 文档。
 2. 文档：更新 store-app-store-complete-example 文档。
@@ -38,26 +46,26 @@ Changelog
 5. 修复：优化支付失败处理逻辑。
 6. 功能：更新命令菜单。
 
-## [1.19.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.19.0)
+## [v1.19.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.19.0)
 
 1. feat: 添加 swiftdata 模型迁移文档
 2. doc: 更新 swiftdata 数据查询文档
 3. doc: 更新 swiftdata 数据删除文档
 
-## [1.18.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.18.0)
+## [v1.18.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.18.0)
 
 1. 新功能: 添加书签功能。
 2. 修复: 修复应用图标显示错误问题。
 3. 修复: 修复 TOCs 展示问题。
 
-## [1.17.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.17.0)
+## [v1.17.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.17.0)
 
 1. 添加 Xcode 快捷键备忘单
 2. 添加 UIKit 和 AppKit 集成指南
 3. 更新列表备忘单文档
 4. 更新 SwiftData 模型定义文档
 
-## [1.16.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.16.0)
+## [v1.16.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.16.0)
 
 1. 文档：更新 Swift 指南 - 错误处理
 2. 文档：更新 Swift 指南 - 语言参考 - 属性

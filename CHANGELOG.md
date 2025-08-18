@@ -6,20 +6,28 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
-## [1.23.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.23.0)
+## [v1.24.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.24.0)
+
+1. feat: add state management document.
+2. feat: Add menu visibility settings.
+3. fix: Fix iPad settings options not hiding.
+4. fix: avoid publishing changes during view updates.
+5. ui: add about page.
+
+## [v1.23.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.23.0)
 
 1. fix: fix appearance settings not applying correctly
 2. style: adjust sidebar width style
 3. feat: add always-on-top window feature
 
-## [1.22.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.22.0)
+## [v1.22.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.22.0)
 
 1. feat: Add `StoreKitHelper` documentation.
 2. chore: Update main menu.
 3. fix: Fix incorrect receipt existence check.
 4. feat: Add update check functionality.
 
-## [1.21.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.21.0)
+## [v1.21.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.21.0)
 
 1. Updated `hsplitview` document.
 2. Updated `store-app-store-complete-example` document.
@@ -29,7 +37,7 @@ Changelog
 6. Updated `cheatsheets text` document.
 7. Updated `cheatsheets print` document.
 
-## [1.20.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.20.0)
+## [v1.20.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.20.0)
 
 1. Doc: update store-share-purchases document.
 2. Doc: update store-app-store-complete-example document.
@@ -38,19 +46,19 @@ Changelog
 5. Fix: optimize the payment failure handling logic.
 6. Feat: update command menu.
 
-## [1.19.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.19.0)
+## [v1.19.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.19.0)
 
 1. feat: add swiftdata-model-migration document
 2. doc: update swiftdata-querying-data document
 3. doc: update swiftdata-deleting-data document
 
-## [1.18.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.18.0)
+## [v1.18.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.18.0)
 
 1. feat: Add bookmark feature.
 2. fix: Resolve incorrect app icon display issue.
 3. fix: Resolve TOCs display issue.
 
-## [1.17.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.17.0)
+## [v1.17.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.17.0)
 
 1. Added Xcode shortcuts cheatsheet
 2. Added UIKit and AppKit integration guide
