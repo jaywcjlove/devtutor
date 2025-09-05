@@ -8,6 +8,11 @@ Changelog
 
 ## [v1.26.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.26.0)
 
+1. docs: Add best practices documentation for data flow
+2. docs: Add documentation for data passing between views
+3. docs: Add documentation for global state management
+4. docs: Update Binding documentation
+5. docs: Update SwiftData querying data documentation
 
 ## [v1.25.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.25.0)
 

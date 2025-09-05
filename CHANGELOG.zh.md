@@ -6,6 +6,14 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.26.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.26.0)
+
+1. docs: 新增数据流最佳实践文档
+2. docs: 新增视图间数据传递文档
+3. docs: 新增全局状态管理文档
+4. docs: 更新 Binding 文档
+5. docs: 更新 SwiftData 查询数据文档
+
 ## [v1.25.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.25.0)
 
 1. doc: 新增"视图间数据传递"示例文档
