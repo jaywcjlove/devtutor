@@ -6,6 +6,22 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.26.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.26.0)
+
+
+## [v1.25.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.25.0)
+
+1. doc: Add "Passing Data Between Views" sample document.
+2. doc: Add "Global State Management" sample document.
+3. doc: Add "Data Flow Best Practices" sample document.
+4. doc: Add "WebSocket" sample document.
+5. doc: Add "URLSession" sample document.
+6. doc: Add "REST API Integration" sample document.
+7. doc: Add "JSON Parsing" sample document.
+8. doc: Add "Networking Error Handling" sample document.
+9. doc: Add "Codable Protocol" sample document.
+10. doc: Add "Data Caching" sample document.
+
 ## [v1.24.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.24.0)
 
 1. feat: add state management document.

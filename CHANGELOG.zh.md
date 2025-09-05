@@ -6,6 +6,19 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.25.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.25.0)
+
+1. doc: 新增"视图间数据传递"示例文档
+2. doc: 新增"全局状态管理"示例文档
+3. doc: 新增"数据流最佳实践"示例文档
+4. doc: 新增"WebSocket"示例文档
+5. doc: 新增"URLSession"示例文档
+6. doc: 新增"REST API 集成"示例文档
+7. doc: 新增"JSON 解析"示例文档
+8. doc: 新增"网络错误处理"示例文档
+9. doc: 新增"Codable 协议"示例文档
+10. doc: 新增"数据缓存"示例文档
+
 ## [v1.24.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.24.0)
 
 1. feat: 添加状态管理文档。
