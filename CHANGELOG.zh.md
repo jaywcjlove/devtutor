@@ -6,6 +6,13 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.28.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.28.0)
+
+1.feat: 添加对 macOS/iOS 26 的支持
+2.pref: 优化视图渲染性能
+3.doc: 更新 Using StoreKit Helper 文档
+4.doc: 更新 Differentiating OS 文档
+
 ## [v1.27.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.27.0)
 
 1. 性能: 优化视图渲染性能。
