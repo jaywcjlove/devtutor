@@ -8,10 +8,10 @@ Changelog
 
 ## [v1.28.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.28.0)
 
-1.feat: 添加对 macOS/iOS 26 的支持
-2.pref: 优化视图渲染性能
-3.doc: 更新 Using StoreKit Helper 文档
-4.doc: 更新 Differentiating OS 文档
+1. feat: 添加对 macOS/iOS 26 的支持
+2. pref: 优化视图渲染性能
+3. doc: 更新 Using StoreKit Helper 文档
+4. doc: 更新 Differentiating OS 文档
 
 ## [v1.27.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.27.0)
 
