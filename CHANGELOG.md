@@ -6,6 +6,15 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.27.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.27.0)
+
+1. perf: optimize view rendering performance.
+2. perf: reduce app size.
+3. doc: update dictionaries document.
+4. doc: update math document.
+5. doc: update map document.
+6. doc: update sorted document.
+
 ## [v1.26.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.26.0)
 
 1. docs: Add best practices documentation for data flow

@@ -6,6 +6,15 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.27.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.27.0)
+
+1. 性能: 优化视图渲染性能。
+2. 性能: 减少应用体积。
+3. 文档: 更新词典文档。
+4. 文档: 更新数学文档。
+5. 文档: 更新地图文档。
+6. 文档: 更新排序文档。
+
 ## [v1.26.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.26.0)
 
 1. docs: 新增数据流最佳实践文档
