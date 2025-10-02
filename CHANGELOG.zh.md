@@ -6,6 +6,14 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.29.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.29.0)
+
+1. feat: 添加条件编译指令文档
+2. feat: 添加常用修饰符文档
+3. doc: 更新 MainActor 文档
+4. doc: 更新 @EnvironmentObject 文档
+5. doc: 更新条件编译指令文档
+
 ## [v1.28.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.28.0)
 
 1. feat: 添加对 macOS/iOS 26 的支持

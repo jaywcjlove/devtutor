@@ -6,6 +6,14 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.29.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.29.0)
+
+1. feat: add Conditional Compilation Directives document
+2. feat: add common modifiers document
+3. doc: update MainActor document
+4. doc: update @EnvironmentObject document
+5. doc: update Conditional Compilation Directives document
+
 ## [v1.28.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.28.0)
 
 1. feat: Add support for macOS/iOS 26
