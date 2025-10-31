@@ -6,6 +6,13 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.30.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.30.0)
+
+1. 文档：更新 @FocusState 文档。
+2. 文档：更新 Text 相关文档。
+3. 文档：更新 Popover 文档。
+4. 新功能：为 TimelineView 添加文档。
+
 ## [v1.29.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.29.0)
 
 1. feat: 添加条件编译指令文档
