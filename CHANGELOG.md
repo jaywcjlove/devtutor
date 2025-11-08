@@ -6,6 +6,19 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.31.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.31.0)
+
+1. feat: optimize toolbar style.  
+2. doc: update swift-welcome-revisionhistory document.  
+3. doc: update swift-guide-language-reference-genericparametersandarguments document.  
+4. doc: update swift-guide-generics document.  
+5. doc: update swift-guide-protocols document.  
+6. doc: update swift-guide-controlflow document.  
+7. doc: update swift-guide-thebasics document.  
+8. doc: update swift-guide-opaquetypes document.  
+9. doc: update SwiftData data update documentation.  
+10. doc: update Toolbar documentation.
+
 ## [v1.30.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.30.0)
 
 1. doc: update @FocusState document.

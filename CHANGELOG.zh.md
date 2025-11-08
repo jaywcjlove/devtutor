@@ -6,6 +6,19 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.31.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.31.0)
+
+1. feat: 优化工具栏样式。  
+2. doc: 更新 swift-welcome-revisionhistory 文档。  
+3. doc: 更新 swift-guide-language-reference-genericparametersandarguments 文档。  
+4. doc: 更新 swift-guide-generics 文档。  
+5. doc: 更新 swift-guide-protocols 文档。  
+6. doc: 更新 swift-guide-controlflow 文档。  
+7. doc: 更新 swift-guide-thebasics 文档。  
+8. doc: 更新 swift-guide-opaquetypes 文档。  
+9. doc: 更新 SwiftData 数据更新相关文档。  
+10. doc: 更新 Toolbar 相关文档。
+
 ## [v1.30.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.30.0)
 
 1. 文档：更新 @FocusState 文档。
