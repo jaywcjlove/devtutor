@@ -6,6 +6,14 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.32.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.32.0)
+
+1. feat: 添加系统路径文档
+2. docs: 更新语言参考文档
+3. doc: 更新 swift-cheatsheets-comments 文档
+4. doc: 更新 swift-welcome-compatibility 文档
+5. fix: 修复二级菜单中选择状态错误
+
 ## [v1.31.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.31.0)
 
 1. feat: 优化工具栏样式。  

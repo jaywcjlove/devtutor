@@ -6,6 +6,14 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.32.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.32.0)
+
+1. feat: add System Paths document.
+2. docs: update language reference documentation.
+3. doc: update swift-cheatsheets-comments document.
+4. doc: update swift-welcome-compatibility document.
+5. fix: correct selection state in secondary submenu.
+
 ## [v1.31.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.31.0)
 
 1. feat: optimize toolbar style.  
