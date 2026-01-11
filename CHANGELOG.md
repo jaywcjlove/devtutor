@@ -6,6 +6,27 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.33.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.33.0)
+
+1. doc: Update swift-cheatsheets-reduce documentation.
+2. doc: Update swift-cheatsheets-dispatch documentation.
+3. doc: Update cheatsheets-storekithelper-api documentation.
+4. doc: Update cheatsheets-storekithelper-custom-payment-ui documentation.
+5. doc: Update cheatsheets-storekithelper-using documentation.
+6. doc: Update cheatsheets-websocket documentation.
+7. doc: Update cheatsheets-caching-data documentation.
+8. doc: Update cheatsheets-error-handling-networking documentation.
+9. doc: Update cheatsheets-rest-api-integration documentation.
+10. doc: Update cheatsheets-codable-protocol documentation.
+11. doc: Update cheatsheets-urlsession documentation.
+12. doc: Update cheatsheets-data-flow-best-practices documentation.
+13. doc: Update cheatsheets-global-state-management documentation.
+14. doc: Update cheatsheets-passing-data-between-views documentation.
+15. doc: Update cheatsheets-bindable documentation.
+16. doc: Update cheatsheets-observable documentation.
+17. fix: Resolve an issue with paid unlock verification.
+18. fix: Improve localization handling for command menus and settings views.
+
 ## [v1.32.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.32.0)
 
 1. feat: add System Paths document.

@@ -6,6 +6,27 @@ Changelog
 <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v1.33.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.33.0)
+
+1. doc: 更新 swift-cheatsheets-reduce 文档。
+2. doc: 更新 swift-cheatsheets-dispatch 文档。
+3. doc: 更新 cheatsheets-storekithelper-api 文档。
+4. doc: 更新 cheatsheets-storekithelper-custom-payment-ui 文档。
+5. doc: 更新 cheatsheets-storekithelper-using 文档。
+6. doc: 更新 cheatsheets-websocket 文档。
+7. doc: 更新 cheatsheets-caching-data 文档。
+8. doc: 更新 cheatsheets-error-handling-networking 文档。
+9. doc: 更新 cheatsheets-rest-api-integration 文档。
+10. doc: 更新 cheatsheets-codable-protocol 文档。
+11. doc: 更新 cheatsheets-urlsession 文档。
+12. doc: 更新 cheatsheets-data-flow-best-practices 文档。
+13. doc: 更新 cheatsheets-global-state-management 文档。
+14. doc: 更新 cheatsheets-passing-data-between-views 文档。
+15. doc: 更新 cheatsheets-bindable 文档。
+16. doc: 更新 cheatsheets-observable 文档。
+17. fix: 修复付费解锁验证失败的问题。
+18. fix: 优化命令菜单与设置界面的本地化处理。
+
 ## [v1.32.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.32.0)
 
 1. feat: 添加系统路径文档
