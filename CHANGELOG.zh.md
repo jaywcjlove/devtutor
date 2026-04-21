@@ -1,9 +1,9 @@
 Changelog
 ===
 
-<a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=mac" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6471227008&platform=mac" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
-<a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
+<a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6471227008&platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
 ## [v1.33.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.33.0)

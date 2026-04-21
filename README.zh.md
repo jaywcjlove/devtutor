@@ -11,9 +11,9 @@
     <a href="./CHANGELOG.zh.md">更新日志</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=mac" title="DevTutor AppStore"><img alt="DevTutor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6471227008&platform=mac" title="DevTutor AppStore"><img alt="DevTutor AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
-    <a target="_blank" href="https://apps.apple.com/app/devtutor/id6471227008?platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6471227008&platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
     </a>
   </p>
 </div>
