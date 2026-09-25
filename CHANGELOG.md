@@ -10,7 +10,7 @@ Changelog
 
 1. doc: Update swift-guide-language-reference-attributes.md
 2. doc: Update swift-welcome-revisionhistory.md
-3. feat: Fix compatibility issues on macOS 27
+3. feat: Fix compatibility issues on macOS/iOS 27
 4. feat: Update and optimize menu display
 5. feat: Update app icon
 
