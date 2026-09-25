@@ -6,6 +6,14 @@ Changelog
 <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6471227008&platform=iphone" title="DevTutor for SwiftUI AppStore"><img alt="DevTutor for SwiftUI AppStore iOS" src="https://jaywcjlove.github.io/sb/download/appstore.svg" height="51">
 </a>
 
+## [v2.0.0](https://github.com/jaywcjlove/devtutor/releases/tag/v2.0.0)
+
+1. doc: Update swift-guide-language-reference-attributes.md
+2. doc: Update swift-welcome-revisionhistory.md
+3. feat: Fix compatibility issues on macOS 27
+4. feat: Update and optimize menu display
+5. feat: Update app icon
+
 ## [v1.33.0](https://github.com/jaywcjlove/devtutor/releases/tag/v1.33.0)
 
 1. doc: Update swift-cheatsheets-reduce documentation.
